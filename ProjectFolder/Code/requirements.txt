@@ -80,7 +80,7 @@ pretty-midi==0.2.8
 prometheus-client==0.5.0
 prompt-toolkit==2.0.7
 protobuf==3.6.1
-psutil==5.4.8
+psutil==5.6.6
 py==1.7.0
 PyAudio==0.2.11
 pycodestyle==2.4.0
