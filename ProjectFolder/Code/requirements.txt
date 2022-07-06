@@ -30,7 +30,7 @@ GitPython==2.1.11
 graphviz==0.10.1
 grpcio==1.16.1
 h5py==2.9.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.8
 imagesize==1.1.0
 ipykernel==5.1.0
